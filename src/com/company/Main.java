@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class Main {
 
+    private final static char[][] number1 = {{' ', ' ', ' '},
+                                             {}};
+
     public static void main(String[] args) {
 	    int number;
 	    int tmp;
